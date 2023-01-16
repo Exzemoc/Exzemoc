@@ -19,9 +19,7 @@
   <h4>
     About me:
     
-    - Working at the factory
-    
-    - That's all)
+    - Working at the factory 🛠️ ☢️
   </h4>
   
   
