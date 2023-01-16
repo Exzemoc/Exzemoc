@@ -34,9 +34,4 @@
 
   
 ### :fire: My Stats :
-  
-  
-  
-  
-  
-  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exzemoc&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
