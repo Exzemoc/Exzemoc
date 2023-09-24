@@ -11,7 +11,7 @@
 </div>
 <div >
   <h1 align="center">
-    Hello world! I'm Vlad
+    Vladislav
   </h1>
 
   ### :hammer_and_wrench: Languages and Tools :
