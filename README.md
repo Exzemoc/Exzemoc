@@ -1,12 +1,3 @@
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vlad-knohinov-01a10525b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exzemoc&style=flat-square&color=blue" alt=""/>  
-</div><br>
 <div align="center" >
 :hammer_and_wrench: Languages and Tools :
   <div >
@@ -21,3 +12,11 @@
 ### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Exzemoc&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vlad-knohinov-01a10525b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Exzemoc&style=flat-square&color=blue" alt=""/>  
+</div>
